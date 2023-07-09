@@ -14,7 +14,7 @@
 
 ******
 ## Tecnologies
-<p>The following two technologies were mainly used for the realisation of the project:
+<p>The following two technologies were mainly used for the implementation of the project:
   <ul>
     <li>
       <b> Segment Anything Model (Sam) </b> is a promptable segmentation system with zero-shot generalization to unfamiliar objects and images, without the need for additional training.
