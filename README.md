@@ -8,7 +8,7 @@
   <img src="assets/steps.png" alt="" />
 </p>
 
-<p align="center">A coin detector using the FasterRCNN model and the Segment Anything Model </p>
+<p align="center">A coin detector using FasterRCNN and the Segment Anything Model </p>
 
 <p align="center">Machine Learning Project - UniCT, DMI.</p>
 
