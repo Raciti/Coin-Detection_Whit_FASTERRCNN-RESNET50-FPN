@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Coin-Detection_Whit_FASTERRCNN-RESNET50-FPN
+  Coin Detection whit FASTERRCNN-RESNET50-FPN
   <br>
 </h1>
 
